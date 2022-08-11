@@ -1,0 +1,3 @@
+[submodule "qpcpp-zephyr"]
+	path = qpcpp-zephyr
+	url = https://github.com/QuantumLeaps/qpcpp-zephyr.git
